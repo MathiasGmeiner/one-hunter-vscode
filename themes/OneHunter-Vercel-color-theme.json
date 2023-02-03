@@ -1,5 +1,5 @@
 {
-  "name": "One Hunter Theme",
+  "name": "One Hunter Theme / weitweit",
   "type": "dark",
   "colors": {
     "editor.background": "#000000",
@@ -749,6 +749,13 @@
       ],
       "settings": {
         "foreground": "#5BD1B9"
+      }
+    },
+    {
+      "name": "punctuation.definition.block.sequence.item.yaml",
+      "scope": "punctuation.definition.block.sequence.item.yaml",
+      "settings": {
+        "foreground": "#ffffff"
       }
     },
     {
