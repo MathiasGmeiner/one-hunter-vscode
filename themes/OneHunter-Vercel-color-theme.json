@@ -32,7 +32,7 @@
     "editorSuggestWidget.foreground": "#DCE3EA",
     "editorSuggestWidget.highlightForeground": "#DD4F7D",
     "editorSuggestWidget.selectedBackground": "#454d54",
-    "editorWhitespace.foreground": "#34393E",
+    "editorWhitespace.foreground": "#2b2b2b",
     "editorWidget.background": "#34393E",
     "editorWidget.border": "#454d54",
     "sideBar.background": "#010101",
